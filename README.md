@@ -16,3 +16,11 @@ It is an E-commerce website which has following features
 ![order placement](https://github.com/AparnaVjn/Amazona/assets/149356560/572208c0-ef12-44d1-950b-8f33b252eb44)
 ![login](https://github.com/AparnaVjn/Amazona/assets/149356560/e00dc129-5a37-47c8-96b6-c82b6f791e18)
 ![category product and logout](https://github.com/AparnaVjn/Amazona/assets/149356560/050274c0-6cb7-448e-b40d-c7a83bc1b4b2)
+
+## Tool and Languages Used
+
+•	React
+
+•	MongoDB Compass
+
+•	JavaScript
